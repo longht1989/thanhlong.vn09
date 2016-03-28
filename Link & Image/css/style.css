@@ -1,0 +1,23 @@
+.site-wrap{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+img{
+	vertical-align: text-bottom;
+}
+h2{
+	margin-bottom: 30px;
+	text-align: center;
+}
+.item img{
+	max-width: 300px;
+	max-height: 300px;
+	border-radius: 5px;
+	border: 1px solid #ddd;
+}
+.product .item img {
+	max-width: 500px;
+	max-height: 500px;
+	border: 1px solid grey;
+}
